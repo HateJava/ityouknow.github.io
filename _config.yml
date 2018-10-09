@@ -21,9 +21,9 @@ favicon: favicon.png
 # url: http://www.ityouknow.com
 # enforce_ssl: ityouknow.com
 
-repository: Hatejava/Hatejava.github.io
-github_url: https://github.com/Hatejava
-url: https://Hatejava.github.io
+repository: hatejava/hatejava.github.io
+github_url: https://github.com/hatejava
+url: https://hatejava.github.io
 
 ## Gem
 plugins:
